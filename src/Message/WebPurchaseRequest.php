@@ -22,8 +22,7 @@ class WebPurchaseRequest extends AbstractRequest
             'partner',
             'notify_url',
             'subject',
-            'out_trade_no',
-            'total_fee'
+            'out_trade_no'
         );
 
         $data = array (
