@@ -1,7 +1,7 @@
 {
-  "name": "lokielse/omnipay-global-alipay",
+  "name": "pong106/omnipay-global-alipay-total-fee-free",
   "type": "library",
-  "description": "Alipay global gateway for Omnipay payment processing library",
+  "description": "Alipay global gateway for Omnipay payment processing library-total-fee-free",
   "keywords": [
     "alipay",
     "gateway",
@@ -14,12 +14,11 @@
     "payment",
     "purchase"
   ],
-  "homepage": "https://github.com/lokielse/omnipay-global-alipay",
+  "homepage": "https://github.com/pong106/omnipay-global-alipay-total-fee-free",
   "license": "MIT",
   "authors": [
     {
-      "name": "Loki Else",
-      "email": "lokielse@gmail.com"
+      "name": "Kp"
     }
   ],
   "autoload": {
